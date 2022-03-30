@@ -19,10 +19,10 @@ if ( ! defined( 'ABSPATH' ) ) exit;                                             
 
 
 /**
-	 * Show Content
- *  Update Content
- *  Define Slug
- *  Define where to show
+ * Show Content
+ * Update Content
+ * Define Slug
+ * Define where to show
  */
 class wtrtkbs_Page_Bookings extends wtrtkbs_Page_Structure {
         
